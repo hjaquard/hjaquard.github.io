@@ -1,0 +1,39 @@
+h1 {
+	color: midnightblue;
+}
+
+h2{
+  color: midnightblue;
+}
+
+a:hover{
+	cursor: pointer;
+}
+
+a{
+	color: purple;
+}
+
+.split {
+	height: 100%;
+	width: 55%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	overflow-x: hidden;
+}
+
+.left {
+	left: 1%;
+	width: 55%;
+}
+
+.right {
+	right: -1%;
+	width: 45%;
+}
+
+#pdfview {
+	height: 100%; 
+	width: 100%;
+}
